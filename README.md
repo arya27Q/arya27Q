@@ -41,6 +41,9 @@ I am a student passionate about building integrated web and mobile solutions. Cu
 ![Arya's Contributions](https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=github)
 ![Main Project](https://img.shields.io/badge/Current_Project-Fit_Champ-blue?style=for-the-badge&logo=flutter)
 
+### 🐍 My Contributions Snake
+![snake github contribute](https://raw.githubusercontent.com/arya27Q/arya27Q/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 📫 Let's Connect:
