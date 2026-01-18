@@ -12,10 +12,12 @@ I am a student passionate about building integrated web and mobile solutions. Cu
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **🛡️ SAP Project** | Enterprise integration connecting mobile and web with SQL Server. | Flutter, Laravel, SQL Server |
-| **🏀 Booking Sport & Coworking** | Platform for booking sports venues and coworking spaces. | Laravel, Tailwind CSS |
+| **🏀 Booking Sport & Coworking** | Platform for booking sports venues and coworking spaces. | Laravel,html, Tailwind CSS |
 | **🏨 Hotel System** | Extensive booking system with User & Admin Dashboard. | HTML, CSS, JS, PHP, MySQL |
 | **☕ Forever Cop %** | Modern website for a coffee shop featuring a digital menu. | HTML, CSS, JS |
 | **🏆 Fit Champ** | Protein tracking app for Dicoding Submission. | Flutter, Dart |
+| **🧺 Laundry Web System** | Web-based laundry management system with order tracking, pricing, and admin dashboard. | Laravel, HTML, Tailwind CSS |
+
 
 ---
 
