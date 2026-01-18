@@ -11,6 +11,7 @@ I am a student passionate about building integrated web and mobile solutions. Cu
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **🏀 Booking Sport & Coworking** | A platform for booking sports venues and coworking spaces. | Laravel, Tailwind CSS |
 | **🏨 Hotel System** | Extensive booking system with User & Admin Dashboard. | Laravel, PHP, MySQL |
 | **🛡️ SAP Project** | Enterprise-level integration project connecting mobile and web. | Flutter, Laravel |
 | **☕ Forever Cop %** | Modern website for a coffee shop featuring a digital menu. | HTML, CSS, JS |
@@ -39,8 +40,6 @@ I am a student passionate about building integrated web and mobile solutions. Cu
 ### 📊 GitHub Activity
 ![Arya's Contributions](https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=github)
 ![Main Project](https://img.shields.io/badge/Current_Project-Fit_Champ-blue?style=for-the-badge&logo=flutter)
-
-> **Note:** Currently focused on mobile development and full-stack integration.
 
 ---
 
