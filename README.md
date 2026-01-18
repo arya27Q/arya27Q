@@ -39,13 +39,15 @@ I am a student passionate about building integrated web and mobile solutions. Cu
 ---
 
 ### 🐍 My Contributions Snake
-![snake github contribute](https://raw.githubusercontent.com/arya27Q/arya27Q/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arya27Q/arya27Q/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 ---
 
 ### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arya27Q&theme=radical&bg_color=1a1b27&color=7362ed&line=7362ed&point=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arya27Q&theme=github-compact&bg_color=0d1117&color=2ea043&line=2ea043&point=2ea043&hide_border=true" width="100%" />
 </p>
 
 ---
