@@ -31,10 +31,11 @@ A protein tracking application built with Flutter to help users monitor their da
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arya27Q&show_icons=true&theme=radical" alt="arya27Q Stats" />
-</p>
+### 📊 GitHub Activity
+![Arya's Contributions](https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=github)
+![Main Project](https://img.shields.io/badge/Current_Project-Fit_Champ-blue?style=for-the-badge&logo=flutter)
+
+> **Note:** My GitHub stats are currently being updated. Check out my repositories below to see my work!
 
 ---
 
