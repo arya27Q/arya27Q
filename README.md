@@ -14,7 +14,6 @@ I am a student passionate about building integrated web and mobile solutions. Cu
 | **🛡️ SAP Project** | Enterprise integration project connecting mobile and web with SQL Server. | Flutter, Laravel, SQL Server |
 | **🏀 Booking Sport & Coworking** | A platform for booking sports venues and coworking spaces. | Laravel, Tailwind CSS |
 | **🏨 Hotel System** | Extensive booking system with User & Admin Dashboard. | Laravel, PHP, MySQL |
-| **☕ Forever Cop %** | Modern website for a coffee shop featuring a digital menu. | HTML, CSS, JS |
 | **🏆 Fit Champ** | Protein tracking app for Dicoding Submission. | Flutter, Dart |
 
 ---
@@ -27,25 +26,23 @@ I am a student passionate about building integrated web and mobile solutions. Cu
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-%23777BB3.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 #### **Analysis & Design Tools**
 - **Modeling**: Bizagi (BPMN), BPMN.io, Draw.io.
 - **Data Analysis**: SPSS Statistics.
-- **Database**: SQL Server (Enterprise), PostgreSQL, Navicat.
-- **Local Server**: Laragon.
+- **Database**: SQL Server, PostgreSQL, Navicat.
 
 ---
 
-### 🐍 My Contributions Snake
-![snake github contribute](https://raw.githubusercontent.com/arya27Q/arya27Q/output/github-contribution-grid-snake.svg)
+### 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arya27Q&show_icons=true&theme=radical&rank_icon=github&display_format=v2" alt="Arya's Stats" />
+</p>
 
----
-
-### 📊 GitHub Activity
-![Arya's Contributions](https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=github)
-![Main Project](https://img.shields.io/badge/Current_Project-Fit_Champ-blue?style=for-the-badge&logo=flutter)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya27Q&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
