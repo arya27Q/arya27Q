@@ -11,8 +11,8 @@ I am a student passionate about building integrated web and mobile solutions. Cu
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🛡️ SAP Project** | Enterprise integration project connecting mobile and web with SQL Server. | Flutter, Laravel, SQL Server |
-| **🏀 Booking Sport & Coworking** | A platform for booking sports venues and coworking spaces. | Laravel, Tailwind CSS |
+| **🛡️ SAP Project** | Enterprise integration connecting mobile and web with SQL Server. | Flutter, Laravel, SQL Server |
+| **🏀 Booking Sport & Coworking** | Platform for booking sports venues and coworking spaces. | Laravel, Tailwind CSS |
 | **🏨 Hotel System** | Extensive booking system with User & Admin Dashboard. | Laravel, PHP, MySQL |
 | **☕ Forever Cop %** | Modern website for a coffee shop featuring a digital menu. | HTML, CSS, JS |
 | **🏆 Fit Champ** | Protein tracking app for Dicoding Submission. | Flutter, Dart |
@@ -47,7 +47,7 @@ I am a student passionate about building integrated web and mobile solutions. Cu
 
 ### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arya27Q&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arya27Q&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
