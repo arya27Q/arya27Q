@@ -1,4 +1,6 @@
-# Hi, I'm Arya Pratama Yudhistira! 👋 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arya%20Pratama%20Yudhistira&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
 ### 🚀 Information Systems Student & Full-Stack Developer
 I am a student passionate about building integrated web and mobile solutions. Currently focusing on Flutter and Laravel ecosystems.
@@ -7,27 +9,30 @@ I am a student passionate about building integrated web and mobile solutions. Cu
 
 ### 🌟 Featured Projects
 
-#### 🏨 Hotel Management System (`arya27Q/y`)
-An extensive hotel booking system featuring:
-- **User Side**: Room booking, facilities view, and reservation management.
-- **Admin Dashboard**: Real-time room availability, booking reports, and user management.
-
-#### ☕ Forever Cop % (Coffee Shop Web)
-A modern website for a coffee shop featuring a digital menu and brand showcase.
-
-#### 🛡️ SAP Project (Laravel & Flutter)
-An enterprise-level integration project connecting a Laravel backend with a Flutter mobile application.
-
-#### 🏆 Fit Champ (Dicoding Submission)
-A protein tracking application built with Flutter to help users monitor their daily nutritional goals.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🏨 Hotel System** | Extensive booking system with User & Admin Dashboard. | Laravel, PHP, MySQL |
+| **🛡️ SAP Project** | Enterprise-level integration project connecting mobile and web. | Flutter, Laravel |
+| **☕ Forever Cop %** | Modern website for a coffee shop featuring a digital menu. | HTML, CSS, JS |
+| **🏆 Fit Champ** | Protein tracking app for Dicoding Submission. | Flutter, Dart |
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Frontend**: Flutter, HTML5, CSS3/tailwind css, JavaScript
-- **Backend**: Laravel (PHP)
-- **Database**: PostgreSQL, SQL Server,php admin, Navicat
-- **Tools**: Bizagi (BPMN), Git, GitHub, laragon ( local server )
+
+#### **Frontend & Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB3.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+#### **Database & Tools**
+- **Database**: PostgreSQL, SQL Server, phpMyAdmin, Navicat.
+- **Development**: Laragon (Local Server), Git, GitHub.
+- **Modeling**: Bizagi (BPMN).
 
 ---
 
@@ -35,10 +40,14 @@ A protein tracking application built with Flutter to help users monitor their da
 ![Arya's Contributions](https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=github)
 ![Main Project](https://img.shields.io/badge/Current_Project-Fit_Champ-blue?style=for-the-badge&logo=flutter)
 
-> **Note:** My GitHub stats are currently being updated. Check out my repositories below to see my work!
+> **Note:** Currently focused on mobile development and full-stack integration.
 
 ---
 
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudhis-tira-68735937a/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ydhstrv_?igsh=MTY5bXp2czJoaXVpaw==)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
+</p>
