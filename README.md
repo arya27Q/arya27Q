@@ -13,7 +13,7 @@ I am a student passionate about building integrated web and mobile solutions. Cu
 | :--- | :--- | :--- |
 | **🛡️ SAP Project** | Enterprise integration connecting mobile and web with SQL Server. | Flutter, Laravel, SQL Server |
 | **🏀 Booking Sport & Coworking** | Platform for booking sports venues and coworking spaces. | Laravel, Tailwind CSS |
-| **🏨 Hotel System** | Extensive booking system with User & Admin Dashboard. | HTML,CSS,JS, PHP, MySQL |
+| **🏨 Hotel System** | Extensive booking system with User & Admin Dashboard. | HTML, CSS, JS, PHP, MySQL |
 | **☕ Forever Cop %** | Modern website for a coffee shop featuring a digital menu. | HTML, CSS, JS |
 | **🏆 Fit Champ** | Protein tracking app for Dicoding Submission. | Flutter, Dart |
 
@@ -33,7 +33,7 @@ I am a student passionate about building integrated web and mobile solutions. Cu
 #### **Analysis & Design Tools**
 - **Modeling**: Bizagi (BPMN), Draw.io, BPMN.io.
 - **Data Analysis**: SPSS Statistics.
-- **Database**: SQL Server (Enterprise), PostgreSQL, Navicat.
+- **Database**: SQL Server (Enterprise), PostgreSQL, My SQL, Navicat.
 - **Local Server**: Laragon.
 
 ---
