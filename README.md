@@ -11,17 +11,22 @@
 </p>
 
 <details>
-<summary align="center"><strong>🌿 CLICK HERE TO REVEAL MY PORTFOLIO</strong></summary>
-<br>
+<summary align="center">
+  <br>
+  <code><b>🚀 REVEAL MY PORTFOLIO</b></code>
+  <br>
+  <br>
+</summary>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&height=120&section=header&text=👋%20Welcome%20to%20My%20Portfolio!&fontSize=40&animation=typewriter" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&height=120&section=header&text=👋%20Welcome%20to%20My%20Portfolio!&fontSize=40&animation=waving" width="100%" />
 
 <p style="color:#c9d1d9; font-size: 1.1em;">
   <b>Hi there! I'm Arya Pratama Yudhistira</b>, an Information Systems student 
   and Full-Stack Developer driven by the challenge of creating seamless digital experiences. 
-  I specialize in building web and mobile applications, focusing on the <b>Flutter</b> and <b>Laravel</b> ecosystems.
+  I specialize in building robust web and mobile applications, 
+  with a current focus on the <b>Flutter</b> and <b>Laravel</b> ecosystems.
 </p>
 
 <hr style="background-color: #39d353; height: 1px; border: none; margin: 30px 0;">
@@ -31,11 +36,11 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **🛡️ SAP Project** | Enterprise mobile & web integration. | Flutter, Laravel, SQL |
-| **🏀 Booking Sport** | Venue & coworking platform. | Laravel, HTML, Tailwind |
+| **🏀 Booking Sport** | Venue & coworking platform. | Laravel, Tailwind |
 | **🏨 Hotel System** | Admin & User Dashboard system. | PHP, MySQL, JS |
 | **☕ Forever Cop %** | Coffee shop web with digital menu. | HTML, CSS, JS |
 | **🏆 Fit Champ** | Protein tracking app (Dicoding). | Flutter, Dart |
-| **🧺 Laundry Web** | Order management system. | Laravel, HTML, Tailwind |
+| **🧺 Laundry Web** | Order management system. | Laravel, Tailwind |
 
 <hr style="background-color: #39d353; height: 1px; border: none; margin: 30px 0;">
 
