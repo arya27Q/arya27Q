@@ -50,6 +50,8 @@
   - [cite_start]*Effort*: 40 Hours of learning. [cite: 130]
   - [cite_start][**View Certificate**](https://dicoding.com/certificates/QLZ96MOR7Z5D) [cite: 113]
 
+---
+
 - **🏆 Memulai Pemrograman dengan Dart** (Dicoding)
   - *Issued*: 09 Desember 2025 | [cite_start]*Credential*: `JMZVVJENRZN9` [cite: 10, 4]
   - [cite_start]*Skills*: OOP, Control Flow, Collections, Asynchronous (Futures), & Effective Dart. [cite: 21, 27, 28, 32, 33]
