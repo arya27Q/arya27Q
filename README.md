@@ -31,12 +31,12 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🛡️ SAP Project** | Enterprise mobile & web integration. | Flutter, Laravel, SQL |
-| **🏀 Booking Sport** | Venue & coworking platform. | Laravel, HTML, Tailwind |
-| **🏨 Hotel System** | Admin & User Dashboard system. | PHP, MySQL, JS |
+| **🛡️ SAP Project** | Enterprise mobile & web integration. | Flutter, Laravel, SQL Server |
+| **🏀 Booking Sport** | Venue & coworking platform. | Laravel, HTML, Tailwind CSS |
+| **🏨 Hotel System** | Admin & User Dashboard system. | PHP, MySQL, JS, CSS, Laragon, MySQL |
 | **☕ Forever Cop %** | Coffee shop web with digital menu. | HTML, CSS, JS |
 | **🏆 Fit Champ** | Protein tracking app (Dicoding). | Flutter, Dart |
-| **🧺 Laundry Web** | Order management system. | Laravel, Tailwind |
+| **🧺 Laundry Web** | Order management system. | Laravel, Tailwind CSS, HTML |
 
 <hr style="background-color: #39d353; height: 1px; border: none; margin: 30px 0;">
 
