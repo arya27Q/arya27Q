@@ -45,43 +45,42 @@
 #### **📱 Mobile & Web Development**
 
 - **🏆 Belajar Membuat Aplikasi Flutter untuk Pemula** (Dicoding)
-  - *Issued*: 19 Januari 2026 | [cite_start]*Credential*: `QLZ96MOR7Z5D` [cite: 106, 101]
-  - [cite_start]*Skills*: Flutter Widgets, Navigation, Asset Management, & Deployment (APK/Web). [cite: 121, 125, 127]
-  - [cite_start]*Effort*: 40 Hours of learning. [cite: 130]
-  - [cite_start][**View Certificate**](https://dicoding.com/certificates/QLZ96MOR7Z5D) [cite: 113]
-
----
+  - *Issued*: 19 Januari 2026 | *Credential*: `QLZ96MOR7Z5D`
+  - *Skills*: Flutter Widgets, Navigation, Asset Management, & Deployment (APK/Web).
+  - *Effort*: 40 Hours of learning.
+  - [**View Certificate**](https://dicoding.com/certificates/QLZ96MOR7Z5D)
 
 - **🏆 Memulai Pemrograman dengan Dart** (Dicoding)
-  - *Issued*: 09 Desember 2025 | [cite_start]*Credential*: `JMZVVJENRZN9` [cite: 10, 4]
-  - [cite_start]*Skills*: OOP, Control Flow, Collections, Asynchronous (Futures), & Effective Dart. [cite: 21, 27, 28, 32, 33]
-  - [cite_start]*Effort*: 30 Hours of learning. [cite: 38]
-  - [cite_start][**View Certificate**](https://dicoding.com/certificates/JMZVVJENRZN9) [cite: 14]
+  - *Issued*: 09 Desember 2025 | *Credential*: `JMZVVJENRZN9`
+  - *Skills*: OOP, Control Flow, Collections, Asynchronous (Futures), & Effective Dart.
+  - *Effort*: 30 Hours of learning.
+  - [**View Certificate**](https://dicoding.com/certificates/JMZVVJENRZN9)
 
 ---
 
 #### **🤖 Artificial Intelligence & Data**
 
 - **🏆 Belajar Dasar AI** (Dicoding)
-  - *Issued*: 07 Desember 2025 | [cite_start]*Credential*: `QLZ96EQNMZ5D` [cite: 81, 76]
-  - [cite_start]*Skills*: Machine Learning concepts, Deep Learning, & AI Data Utilization. [cite: 95, 96, 94]
-  - [cite_start]*Effort*: 10 Hours of learning. [cite: 99]
-  - [cite_start][**View Certificate**](https://dicoding.com/certificates/QLZ96EQNMZ5D) [cite: 84]
+  - *Issued*: 07 Desember 2025 | *Credential*: `QLZ96EQNMZ5D`
+  - *Skills*: Machine Learning concepts, Deep Learning, & AI Data Utilization.
+  - *Effort*: 10 Hours of learning.
+  - [**View Certificate**](https://dicoding.com/certificates/QLZ96EQNMZ5D)
 
 ---
 
 #### **🐍 Programming Languages**
 
 - **🏆 Intensive Camp: Pemrograman Python** (Special Skill)
-  - *Issued*: 07 September 2025 | [cite_start]*Credential*: `SSB22G011` [cite: 50, 48]
-  - [cite_start]*Skills*: Algorithmic Thinking, Control Flow, Modular Programming (Functions), & Data Structures. [cite: 53, 55, 57, 59]
-  - [cite_start]*Effort*: 12 Hours of camp. [cite: 72]
-  - [cite_start][**View Certificate**](https://specialskill.id/sertifikat) [cite: 50]
+  - *Issued*: 07 September 2025 | *Credential*: `SSB22G011`
+  - *Skills*: Algorithmic Thinking, Control Flow, Modular Programming (Functions), & Data Structures.
+  - *Effort*: 12 Hours of camp.
+  - [**View Certificate**](https://specialskill.id/sertifikat)
 
 <hr style="background-color: #39d353; height: 1px; border: none; margin: 30px 0;">
 
 <h3 style="color:#39d353;">🛠️ Tech Stack & Skills</h3>
-<p align="left">
+
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -89,9 +88,7 @@
   <img src="https://img.shields.io/badge/JS-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<br>
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
