@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&height=100&section=header&text=👋%20Welcome%20to%20My%20Portfolio!&fontSize=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&height=100&section=header&text=👋%20Welcome%20to%20My%20Portfolio!&fontSize=40&animation=typewriter" width="100%" />
 
 <p style="color:#c9d1d9;"><b>My Name is Arya Pratama Yudhistira</b></p>
 <p style="color:#c9d1d9;"><i>Information Systems Student & Full-Stack Developer</i></p>
@@ -31,6 +31,7 @@
 | **🛡️ SAP Project** | Enterprise mobile & web integration. | Flutter, Laravel, SQL |
 | **🏀 Booking Sport** | Venue & coworking platform. | Laravel, Tailwind |
 | **🏨 Hotel System** | Admin & User Dashboard system. | PHP, MySQL, JS |
+| **☕ Forever Cop %** | Coffee shop web with digital menu. | HTML, CSS, JS |
 | **🏆 Fit Champ** | Protein tracking app (Dicoding). | Flutter, Dart |
 | **🧺 Laundry Web** | Order management system. | Laravel, Tailwind |
 
