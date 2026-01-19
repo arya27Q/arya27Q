@@ -3,31 +3,27 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="150" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat" width="120" />
 </p>
 
 <p align="center">
-  <a href="#-about-me">
-    <img src="https://img.shields.io/badge/✨%20More%20Info%20-%20Click%20Here%20-%20blue?style=for-the-badge" />
-  </a>
+  <img src="https://img.shields.io/badge/↓%20Tap%20More%20Info%20Below%20for%20Details%20↓-grey?style=flat-square" />
 </p>
 
 <details>
-<summary align="center"><strong>🔍 Klik di sini buat liat detail profilku!</strong></summary>
+<summary align="center"><strong>🚀 MORE INFO (CLICK HERE)</strong></summary>
 <br>
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td>
-        <h3>🚀 Information Systems Student & Full-Stack Developer</h3>
-        <p>I am a student passionate about building integrated web and mobile solutions. Currently focusing on <b>Flutter</b> and <b>Laravel</b> ecosystems.</p>
-        <p>📍 Based in Surabaya, Indonesia</p>
+      <td align="center">
+        <h2>👋 Welcome to My Profile!</h2>
+        <p>I am an <b>Information Systems Student & Full-Stack Developer</b> passionate about building integrated web and mobile solutions. Currently focusing on <b>Flutter</b> and <b>Laravel</b> ecosystems.</p>
       </td>
     </tr>
   </table>
 </div>
-</details>
 
 ---
 
@@ -36,9 +32,11 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **🛡️ SAP Project** | Enterprise integration connecting mobile and web with SQL Server. | Flutter, Laravel, SQL Server |
-| **🏀 Booking Sport** | Platform for booking sports venues and coworking spaces. | Laravel, HTML, Tailwind CSS |
-| **🏨 Hotel System** | Extensive booking system with User & Admin Dashboard. | HTML, CSS, JS, PHP |
+| **🏀 Booking Sport & Coworking** | Platform for booking sports venues and coworking spaces. | Laravel, HTML, Tailwind CSS |
+| **🏨 Hotel System** | Extensive booking system with User & Admin Dashboard. | HTML, CSS, JS, PHP, MySQL |
+| **☕ Forever Cop %** | Modern website for a coffee shop featuring a digital menu. | HTML, CSS, JS |
 | **🏆 Fit Champ** | Protein tracking app for Dicoding Submission. | Flutter, Dart |
+| **🧺 Laundry Web System** | Web-based laundry management system with order tracking, admin dashboard. | Laravel, HTML, Tailwind CSS |
 
 ---
 
@@ -50,11 +48,14 @@
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-%23777BB3.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-#### **Analysis & Database**
-- **Modeling**: Bizagi (BPMN), Draw.io.
-- **Database**: SQL Server, PostgreSQL, MySQL, Navicat.
+#### **Analysis & Design Tools**
+* **Modeling**: Bizagi (BPMN), Draw.io, BPMN.io.
+* **Data Analysis**: SPSS Statistics.
+* **Database**: SQL Server (Enterprise), PostgreSQL, MySQL, Navicat.
+* **Local Server**: Laragon.
 
 ---
 
@@ -65,6 +66,19 @@
 
 ---
 
+### 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arya27Q&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudhis-tira-68735937a/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ydhstrv_?)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ydhstrv_?igsh=MTY5bXp2czJoaXVpaw==)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
+</p>
+
+</details>
