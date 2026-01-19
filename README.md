@@ -16,11 +16,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&height=100&section=header&text=👋%20Welcome%20to%20My%20Portfolio!&fontSize=40&animation=typewriter" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&height=120&section=header&text=👋%20Welcome%20to%20My%20Portfolio!&fontSize=40&animation=waving" width="100%" />
 
-<p style="color:#c9d1d9;"><b>My Name is Arya Pratama Yudhistira</b></p>
-<p style="color:#c9d1d9;"><i>Information Systems Student & Full-Stack Developer</i></p>
-<p style="color:#8b949e;">Building integrated solutions with <b>Flutter</b> and <b>Laravel</b>.</p>
+<p style="color:#c9d1d9; font-size: 1.1em;">
+  <b>Hi there! I'm Arya Pratama Yudhistira</b>, an Information Systems student 
+  and Full-Stack Developer driven by the challenge of creating seamless digital experiences. 
+  I specialize in building robust web and mobile applications, 
+  with a current focus on the <b>Flutter</b> and <b>Laravel</b> ecosystems.
+</p>
 
 <hr style="background-color: #39d353; height: 1px; border: none; margin: 30px 0;">
 
