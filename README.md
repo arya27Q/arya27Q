@@ -11,11 +11,11 @@
 </p>
 
 <details>
-<summary align="center">
-<br>
-<img src="https://img.shields.io/badge/🚀%20REVEAL%20MY%20PORTFOLIO%20-%20CLICK%20HERE-39d353?style=for-the-badge&logo=rocket" />
-<br>
-<br>
+<summary align="center" style="list-style: none;">
+  <br>
+  <img src="https://img.shields.io/badge/🚀%20REVEAL%20MY%20PORTFOLIO-CLICK%20HERE-39d353?style=for-the-badge&logo=rocket&logoColor=white" />
+  <br>
+  <br>
 </summary>
 
 <div align="center">
