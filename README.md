@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Haloo%20kenalin%20namaku%20Arya&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Haloo%20kenalin%20aku%20Yudhis&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
