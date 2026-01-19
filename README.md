@@ -102,7 +102,9 @@
   <img src="https://img.shields.io/badge/Navicat-009B4D?style=flat-square&logo=navicat&logoColor=white" />
 </p>
 
-<p style="color:#c9d1d9; font-size: 14px;"><b>Analysis Tools:</b> Bizagi (BPMN), Draw.io, SPSS Statistics</p>
+<p align="center" style="color:#c9d1d9; font-size: 14px;">
+  <b>Analysis Tools:</b> Microsoft Visio, Bizagi (BPMN), Draw.io, SPSS Statistics
+</p>
 
 <hr style="background-color: #39d353; height: 1px; border: none; margin: 30px 0;">
 
