@@ -1,3 +1,12 @@
+<style>
+  summary::-webkit-details-marker {
+    display: none;
+  }
+  summary {
+    list-style: none;
+  }
+</style>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Haloo%20kenalin%20namaku%20Arya&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
@@ -11,7 +20,7 @@
 </p>
 
 <details>
-<summary align="center" style="list-style: none;">
+<summary align="center">
   <br>
   <img src="https://img.shields.io/badge/🚀%20REVEAL%20MY%20PORTFOLIO-CLICK%20HERE-39d353?style=for-the-badge&logo=rocket&logoColor=white" />
   <br>
@@ -38,7 +47,7 @@
 | **🏀 Booking Sport** | Venue & coworking platform. | Laravel, HTML, Tailwind |
 | **🏨 Hotel System** | Admin & User Dashboard system. | PHP, MySQL, JS |
 | **☕ Forever Cop %** | Coffee shop web with digital menu. | HTML, CSS, JS |
-| **🏆 Fit Champ** | Protein tracking app (Dicoding). | Flutter, Dart |
+| **🏆 Fit Champ** | Protein tracking app (Dicoding submission). | Flutter, Dart |
 | **🧺 Laundry Web** | Order management system. | Laravel, HTML, Tailwind |
 
 <hr style="background-color: #39d353; height: 1px; border: none; margin: 30px 0;">
