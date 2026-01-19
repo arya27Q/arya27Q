@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp0ZnR5dm9idXp6bm9raWV6YmN6bm9raWV6YmN6bm9raWV6YmN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/YRtLgsajXrz1FNJ6oy/giphy.gif" alt="Cat Running" width="200" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="150" />
 </p>
 
 <p align="center">
@@ -17,71 +17,71 @@
 <div align="center">
 <table width="100%">
 <tr>
-<td bgcolor="#0052cc" align="center">
+<td bgcolor="#0d1117" style="border: 2px solid #0052cc;">
 <br>
-<h1 style="color:white;">👋 Welcome to My Profile!</h1>
-<p style="color:white;"><b>Information Systems Student & Full-Stack Developer</b></p>
-<p style="color:white;">Passionate about building integrated web and mobile solutions.<br>Currently focusing on <b>Flutter</b> and <b>Laravel</b> ecosystems.</p>
-<br>
-</td>
-</tr>
-</table>
+
+<div align="center">
+  <h1 style="color:#58a6ff;">👋 Welcome to My Profile!</h1>
+  <p style="color:#c9d1d9;"><b> My Name is Arya Pratama Yudhistira I'm still Student as Information Systems Student & Full-Stack Developer</b></p>
+  <p style="color:#c9d1d9;">Passionate about building integrated web and mobile solutions.<br>Currently focusing on <b>Flutter</b> and <b>Laravel</b> ecosystems.</p>
 </div>
 
----
+<hr style="background-color: #0052cc; height: 1px; border: none;">
 
-### 🌟 Featured Projects
+<h3 align="center" style="color:#58a6ff;">🌟 Featured Projects</h3>
+<div align="center">
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🛡️ SAP Project** | Enterprise integration connecting mobile and web with SQL Server. | Flutter, Laravel, SQL Server |
-| **🏀 Booking Sport & Coworking** | Platform for booking sports venues and coworking spaces. | Laravel, HTML, Tailwind CSS |
-| **🏨 Hotel System** | Extensive booking system with User & Admin Dashboard. | HTML, CSS, JS, PHP, MySQL |
-| **☕ Forever Cop %** | Modern website for a coffee shop featuring a digital menu. | HTML, CSS, JS |
-| **🏆 Fit Champ** | Protein tracking app for Dicoding Submission. | Flutter, Dart |
-| **🧺 Laundry Web System** | Web-based laundry management system with order tracking. | Laravel, HTML, Tailwind CSS |
+| **🛡️ SAP Project** | Enterprise integration mobile & web. | Flutter, Laravel, SQL Server |
+| **🏀 Booking Sport** | Venue and coworking space platform. | Laravel, HTML, Tailwind |
+| **🏨 Hotel System** | Extensive booking with Admin Dashboard. | HTML, CSS, JS, PHP, MySQL |
+| **☕ Forever Cop %** | Coffee shop web with digital menu. | HTML, CSS, JS |
+| **🏆 Fit Champ** | Protein tracking app. | Flutter, Dart |
+| **🧺 Laundry Web** | Management system with order tracking. | Laravel, HTML, Tailwind |
 
----
+</div>
 
-### 🛠️ Tech Stack & Skills
+<hr style="background-color: #0052cc; height: 1px; border: none;">
 
-#### **Frontend & Backend**
-<p align="left">
+<h3 align="center" style="color:#58a6ff;">🛠️ Tech Stack & Skills</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-%23777BB3.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+</div>
 
-#### **Analysis & Design Tools**
-* **Modeling**: Bizagi (BPMN), Draw.io, BPMN.io.
-* **Data Analysis**: SPSS Statistics.
-* **Database**: SQL Server (Enterprise), PostgreSQL, MySQL, Navicat.
-* **Local Server**: Laragon.
+<br>
 
----
+<div align="center">
+  <p style="color:#c9d1d9;"><b>Analysis & Design:</b> Bizagi, Draw.io, SPSS</p>
+  <p style="color:#c9d1d9;"><b>Database:</b> SQL Server, PostgreSQL, MySQL, Navicat</p>
+</div>
 
-### 🐍 My Contributions Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arya27Q/arya27Q/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</p>
+<hr style="background-color: #0052cc; height: 1px; border: none;">
 
----
+<h3 align="center" style="color:#58a6ff;">📊 My Statistics</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arya27Q/arya27Q/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="85%" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arya27Q&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="90%" />
+</div>
 
-### 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arya27Q&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true" width="100%" />
-</p>
+<hr style="background-color: #0052cc; height: 1px; border: none;">
 
----
-
-### 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudhis-tira-68735937a/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ydhstrv_?)
-
-<p align="center">
+<div align="center">
+  <h3 style="color:#58a6ff;">📫 Let's Connect:</h3>
+  <a href="https://www.linkedin.com/in/yudhis-tira-68735937a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ydhstrv_?"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <br><br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
-</p>
+</div>
 
+<br>
+</td>
+</tr>
+</table>
+</div>
 </details>
