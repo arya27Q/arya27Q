@@ -1,14 +1,3 @@
-<style>
- 
-  summary::-webkit-details-marker {
-    display: none !important;
-  }
-
-  summary {
-    list-style: none !important;
-  }
-</style>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Haloo%20kenalin%20namaku%20Arya&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
@@ -22,21 +11,18 @@
 </p>
 
 <details>
-<summary align="center">
-  <br>
-  <img src="https://img.shields.io/badge/🚀%20REVEAL%20MY%20PORTFOLIO-CLICK%20HERE-39d353?style=for-the-badge&logo=rocket&logoColor=white" />
-  <br>
-  <br>
-</summary>
+<summary align="center"><strong>🌿 CLICK HERE TO REVEAL MY PORTFOLIO</strong></summary>
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&height=120&section=header&text=👋%20Welcome%20to%20My%20Portfolio!&fontSize=40&animation=typewriter" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&height=120&section=header&text=👋%20Welcome%20to%20My%20Portfolio!&fontSize=40&animation=waving" width="100%" />
 
 <p style="color:#c9d1d9; font-size: 1.1em;">
   <b>Hi there! I'm Arya Pratama Yudhistira</b>, an Information Systems student 
   and Full-Stack Developer driven by the challenge of creating seamless digital experiences. 
-  I specialize in building web and mobile applications, focusing on the <b>Flutter</b> and <b>Laravel</b> ecosystems.
+  I specialize in building robust web and mobile applications, 
+  with a current focus on the <b>Flutter</b> and <b>Laravel</b> ecosystems.
 </p>
 
 <hr style="background-color: #39d353; height: 1px; border: none; margin: 30px 0;">
@@ -46,11 +32,11 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **🛡️ SAP Project** | Enterprise mobile & web integration. | Flutter, Laravel, SQL |
-| **🏀 Booking Sport** | Venue & coworking platform. | Laravel, HTML, Tailwind |
+| **🏀 Booking Sport** | Venue & coworking platform. | Laravel, Tailwind |
 | **🏨 Hotel System** | Admin & User Dashboard system. | PHP, MySQL, JS |
 | **☕ Forever Cop %** | Coffee shop web with digital menu. | HTML, CSS, JS |
-| **🏆 Fit Champ** | Protein tracking app (Dicoding submission). | Flutter, Dart |
-| **🧺 Laundry Web** | Order management system. | Laravel, HTML, Tailwind |
+| **🏆 Fit Champ** | Protein tracking app (Dicoding). | Flutter, Dart |
+| **🧺 Laundry Web** | Order management system. | Laravel, Tailwind |
 
 <hr style="background-color: #39d353; height: 1px; border: none; margin: 30px 0;">
 
