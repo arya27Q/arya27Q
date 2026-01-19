@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=200&section=header&text=Haloo%20kenalin%20namaku%20Arya&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Haloo%20kenalin%20namaku%20Arya&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pjdW5uYmd3emR3bTF6M3ZqOHR4bmR3OHR4bmR3OHR4bmR3OHR4biZlcD12MV9pbnRlcm5hbV9naWZfYnlfaWQmY3Q9cw/jpbnoe3UIa8TU8UC8F/giphy.gif" alt="Cat Animated" width="180" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat Animated" width="160" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/↓%20Tap%20More%20Info%20Below%20for%20Details%20↓-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/↓%20Tap%20More%20Info%20Below%20for%20Details%20↓-39d353?style=for-the-badge" />
 </p>
 
 <details>
@@ -17,7 +17,7 @@
 <div align="center">
 <table width="100%">
 <tr>
-<td bgcolor="#0d1117" style="border: 2px solid #2ea44f;">
+<td bgcolor="#0d1117" style="border: 2px solid #39d353; border-radius: 10px;">
 <br>
 
 <div align="center">
@@ -27,7 +27,7 @@
   <p style="color:#c9d1d9;">Passionate about building integrated web and mobile solutions.<br>Currently focusing on <b>Flutter</b> and <b>Laravel</b> ecosystems.</p>
 </div>
 
-<hr style="background-color: #2ea44f; height: 1px; border: none;">
+<hr style="background-color: #39d353; height: 1px; border: none;">
 
 <h3 align="center" style="color:#39d353;">🌟 Featured Projects</h3>
 <div align="center">
@@ -43,7 +43,7 @@
 
 </div>
 
-<hr style="background-color: #2ea44f; height: 1px; border: none;">
+<hr style="background-color: #39d353; height: 1px; border: none;">
 
 <h3 align="center" style="color:#39d353;">🛠️ Tech Stack & Skills</h3>
 <div align="center">
@@ -68,7 +68,7 @@
   <p style="color:#c9d1d9;"><b>Analysis & Design:</b> Bizagi (BPMN), Draw.io, SPSS Statistics</p>
 </div>
 
-<hr style="background-color: #2ea44f; height: 1px; border: none;">
+<hr style="background-color: #39d353; height: 1px; border: none;">
 
 <h3 align="center" style="color:#39d353;">📊 My Statistics</h3>
 <div align="center">
@@ -77,7 +77,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arya27Q&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true" width="90%" />
 </div>
 
-<hr style="background-color: #2ea44f; height: 1px; border: none;">
+<hr style="background-color: #39d353; height: 1px; border: none;">
 
 <div align="center">
   <h3 style="color:#39d353;">📫 Let's Connect:</h3>
