@@ -40,6 +40,58 @@
 
 <hr style="background-color: #39d353; height: 1px; border: none; margin: 30px 0;">
 
+### 📜 My Learning Journey & Certifications
+
+<details>
+<summary align="center">
+  <br>
+  <img src="https://img.shields.io/badge/🎓%20VIEW%20ALL%20CERTIFICATES-CLICK%20HERE-39d353?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <br>
+  <br>
+</summary>
+
+---
+
+#### **📱 Mobile & Web Development**
+
+- **🏆 Belajar Membuat Aplikasi Flutter untuk Pemula** (Dicoding)
+  - *Issued*: 19 Januari 2026 | *Credential*: `QLZ96MOR7Z5D`
+  - *Skills*: Flutter Widgets, Navigation, Asset Management, & Deployment (APK/Web).
+  - *Effort*: 40 Hours of learning.
+  - [**View Certificate**](https://dicoding.com/certificates/QLZ96MOR7Z5D)
+
+- **🏆 Memulai Pemrograman dengan Dart** (Dicoding)
+  - *Issued*: 09 Desember 2025 | *Credential*: `JMZVVJENRZN9`
+  - *Skills*: OOP, Control Flow, Collections, Asynchronous (Futures), & Effective Dart.
+  - *Effort*: 30 Hours of learning.
+  - [**View Certificate**](https://dicoding.com/certificates/JMZVVJENRZN9)
+
+---
+
+#### **🤖 Artificial Intelligence & Data**
+
+- **🏆 Belajar Dasar AI** (Dicoding)
+  - *Issued*: 07 Desember 2025 | *Credential*: `QLZ96EQNMZ5D`
+  - *Skills*: Machine Learning concepts, Deep Learning, & AI Data Utilization.
+  - *Effort*: 10 Hours of learning.
+  - [**View Certificate**](https://dicoding.com/certificates/QLZ96EQNMZ5D)
+
+---
+
+#### **🐍 Programming Languages**
+
+- **🏆 Intensive Camp: Pemrograman Python** (Special Skill)
+  - *Issued*: 07 September 2025 | *Credential*: `SSB22G011`
+  - *Skills*: Algorithmic Thinking, Control Flow, Modular Programming (Functions), & Data Structures.
+  - *Effort*: 12 Hours of camp.
+  - [**View Certificate**](https://specialskill.id/sertifikat)
+
+---
+
+</details>
+
+<hr style="background-color: #39d353; height: 1px; border: none; margin: 30px 0;">
+
 <h3 style="color:#39d353;">🛠️ Tech Stack & Skills</h3>
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
