@@ -42,13 +42,6 @@
 
 ### 📜 My Learning Journey & Certifications
 
-<details>
-<summary align="center">
-  <br>
-  <img src="https://img.shields.io/badge/🎓%20VIEW%20ALL%20CERTIFICATES-CLICK%20HERE-39d353?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <br>
-  <br>
-</summary>
 
 ---
 
