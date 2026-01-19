@@ -3,26 +3,29 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat" width="120" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp0ZnR5dm9idXp6bm9raWV6YmN6bm9raWV6YmN6bm9raWV6YmN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/YRtLgsajXrz1FNJ6oy/giphy.gif" alt="Cat Running" width="200" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/↓%20Tap%20More%20Info%20Below%20for%20Details%20↓-grey?style=flat-square" />
+  <img src="https://img.shields.io/badge/↓%20Tap%20More%20Info%20Below%20for%20Details%20↓-0077B5?style=for-the-badge" />
 </p>
 
 <details>
-<summary align="center"><strong>🚀 MORE INFO (CLICK HERE)</strong></summary>
+<summary align="center"><strong>🚀 CLICK HERE TO REVEAL MY PORTFOLIO</strong></summary>
 <br>
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center">
-        <h2>👋 Welcome to My Profile!</h2>
-        <p>I am an <b>Information Systems Student & Full-Stack Developer</b> passionate about building integrated web and mobile solutions. Currently focusing on <b>Flutter</b> and <b>Laravel</b> ecosystems.</p>
-      </td>
-    </tr>
-  </table>
+<table width="100%">
+<tr>
+<td bgcolor="#0052cc" align="center">
+<br>
+<h1 style="color:white;">👋 Welcome to My Profile!</h1>
+<p style="color:white;"><b>Information Systems Student & Full-Stack Developer</b></p>
+<p style="color:white;">Passionate about building integrated web and mobile solutions.<br>Currently focusing on <b>Flutter</b> and <b>Laravel</b> ecosystems.</p>
+<br>
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -36,7 +39,7 @@
 | **🏨 Hotel System** | Extensive booking system with User & Admin Dashboard. | HTML, CSS, JS, PHP, MySQL |
 | **☕ Forever Cop %** | Modern website for a coffee shop featuring a digital menu. | HTML, CSS, JS |
 | **🏆 Fit Champ** | Protein tracking app for Dicoding Submission. | Flutter, Dart |
-| **🧺 Laundry Web System** | Web-based laundry management system with order tracking, admin dashboard. | Laravel, HTML, Tailwind CSS |
+| **🧺 Laundry Web System** | Web-based laundry management system with order tracking. | Laravel, HTML, Tailwind CSS |
 
 ---
 
@@ -75,7 +78,7 @@
 
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudhis-tira-68735937a/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ydhstrv_?igsh=MTY5bXp2czJoaXVpaw==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ydhstrv_?)
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
