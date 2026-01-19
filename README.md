@@ -1,9 +1,11 @@
 <style>
+ 
   summary::-webkit-details-marker {
-    display: none;
+    display: none !important;
   }
+
   summary {
-    list-style: none;
+    list-style: none !important;
   }
 </style>
 
